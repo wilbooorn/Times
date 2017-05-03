@@ -1,0 +1,86 @@
+.left-content > h1 {
+  font-size: 28px;
+  text-decoration: underline ;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+.left-content > p {
+  color: $gray;
+}
+
+.left-content > ul {
+  list-style: disc;
+  font-size: 14px;
+}
+
+.left-content > a {
+  color: $dark-blue;
+  padding-bottom: 40px;
+}
+
+
+
+.middle > iframe {
+  margin-bottom: 20px;
+}
+
+.middle article p {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.middle > p {
+  font-size: 14px;
+}
+
+.where-are-they > h3 {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.where-are-they {
+  border-bottom: 2px solid $gray;
+}
+
+.middle article h4 {
+  color: $gray;
+}
+
+.right > h3 {
+  display: block;
+}
+
+.javascript > h3 {
+  color: $gray;
+  text-transform: uppercase;
+}
+
+.javascript > h2 {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.javascript > p {
+  font-size: 18px;
+}
+
+
+.ny-office > img {
+  height: 100px;
+}
+
+.ny-office > h3 {
+  color: $gray;
+}
+
+.ny-office > p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.right > input {
+  margin-top: 100px;
+  border: 1px solid $light-gray;
+  height: 20px;
+}
